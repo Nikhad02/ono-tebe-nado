@@ -1,1 +1,27 @@
+.header {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    margin: 92px 24px 0;
+    height: 105px;
+}
+.header__links-list {
+    display: flex;
+    justify-content: space-between;
+}
 
+.header__menu {
+    align-self: center;
+}
+
+.header__links-list-item_no-bullit {
+    list-style: none;
+}
+.header__logo {
+    margin-left: 36px;
+    width: 148px;
+    height: 105px;
+}
+
+.address {
+    display: block;
+}
