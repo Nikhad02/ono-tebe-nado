@@ -67,18 +67,18 @@
     line-height: 115px;
 }
 
-.letter-spacing-extended{
- letter-spacing: 60px;
+.letter-spacing-extended {
+    letter-spacing: 60px;
 }
 
-.aligned-text_center{
+.aligned-text_center {
     letter-spacing: 30px;
     text-align: center;
     margin-top: 20px;
     line-height: 100px;
 }
 
-.aligned-text_right{
+.aligned-text_right {
     letter-spacing: 60px;
     text-align: right;
     margin-top: 20px;
@@ -207,7 +207,7 @@
     display: inline-block;
 }
 
-.about{
+.about {
     margin: 146px 24px 0;
     display: grid;
     grid-template-columns: 1fr 2fr;
@@ -225,7 +225,7 @@
 
 }
 
-.about__logo-image{
+.about__logo-image {
     height: 140px;
     width: 140px;
 
@@ -236,7 +236,7 @@
     flex-direction: column;
 }
 
-.about__title{
+.about__title {
     font-size: 40px;
     font-weight: 700;
     text-transform: uppercase;
