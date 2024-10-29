@@ -248,7 +248,48 @@
     font-size: 20px;
 }
 
+
 .about__text-second {
     margin-top: 24px;
     font-size: 20px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+    margin: 180px 26px  88px;
+}
+
+
+.address-no-space {
+    margin: 0;
+}
+
+
+
+.footer__social-list {
+    width: 240px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.footer__social-list-item {
+
+    height: 48px;
+    width: 48px;
+}
+
+.footer__menu {
+    text-align: center;
+}
+
+.footer__menu-list {
+    list-style: none;
+}
+
+
+
+.footer__menu-link {
+    text-decoration: underline;
 }
