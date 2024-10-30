@@ -5,9 +5,10 @@
 }
 
 .header__links-list {
+    font-weight: 400;
     display: flex;
     justify-content: space-between;
-    margin-left: 25px;
+    margin-left: 26px;
     font-size: 18px;
 }
 
@@ -26,10 +27,15 @@
 .header__links-list-item {
     list-style: circle;
     text-decoration: underline;
+    letter-spacing: 1px;
 }
 
 .header__logo {
     margin-left: 36px;
+
+}
+
+.header__image {
     width: 148px;
     height: 105px;
 }
@@ -41,6 +47,10 @@
     font-size: 18px;
     margin: 5px 25px 2px 184px;
     line-height: 24px;
+}
+
+.header__address {
+    letter-spacing: 1px;
 }
 
 .cover {
