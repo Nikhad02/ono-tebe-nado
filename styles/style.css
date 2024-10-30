@@ -3,6 +3,7 @@
     grid-template-columns: 1fr min-content 1fr;
     margin: 92px 24px 0;
 }
+
 .header__links-list {
     display: flex;
     justify-content: space-between;
@@ -22,11 +23,11 @@
     text-decoration: none;
 }
 
-
 .header__links-list-item {
     list-style: circle;
     text-decoration: underline;
 }
+
 .header__logo {
     margin-left: 36px;
     width: 148px;
@@ -116,7 +117,6 @@
     margin: 0 50px 51px 78px;
 }
 
-
 .cover__description-text {
     font-family: Raleway, sans-serif;
     color: white;
@@ -159,6 +159,7 @@
     grid-template-columns: 1fr 1fr 1fr;
     gap: 25px;
 }
+
 .card {
     height: 563px;
     width: 334px;
@@ -270,21 +271,15 @@
     row-gap: 24px;
 }
 
-
-
-
 .footer {
     display: flex;
     justify-content: space-between;
     margin: 180px 50px  88px;
 }
 
-
 .address-no-space {
     margin: 0;
 }
-
-
 
 .footer__social-list {
     display: flex;
