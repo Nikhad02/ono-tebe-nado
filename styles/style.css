@@ -203,9 +203,6 @@
 
 .card_type_picture {
     background-image: url("../images/card-lot-03.jpg");
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
 }
 
 .card__title {
@@ -269,7 +266,7 @@
 }
 
 .about__text {
-    margin-top: 100px;
+    margin: 100px 5px 0 0;
     font-size: 20px;
     display: flex;
     flex-direction: column;
